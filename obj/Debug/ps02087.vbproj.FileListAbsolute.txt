@@ -1,0 +1,12 @@
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\bin\Debug\ps02087.exe
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\bin\Debug\ps02087.pdb
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\bin\Debug\ps02087.xml
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.frmGiaodien.resources
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.frmNhanvien.resources
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.frmDangnhap.resources
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.Resources.resources
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.vbproj.GenerateResource.Cache
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.exe
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.xml
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.pdb
+C:\Users\AlexKenji\AppData\Local\Temporary Projects\ps02087\obj\Debug\ps02087.frmHanghoa.resources

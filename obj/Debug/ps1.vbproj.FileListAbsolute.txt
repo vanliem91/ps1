@@ -1,0 +1,12 @@
+D:\ps1\ps1\bin\Debug\ps1.exe
+D:\ps1\ps1\bin\Debug\ps1.pdb
+D:\ps1\ps1\bin\Debug\ps1.xml
+D:\ps1\ps1\obj\Debug\ps02087.frmGiaodien.resources
+D:\ps1\ps1\obj\Debug\ps02087.frmHanghoa.resources
+D:\ps1\ps1\obj\Debug\ps02087.frmNhanvien.resources
+D:\ps1\ps1\obj\Debug\ps02087.frmDangnhap.resources
+D:\ps1\ps1\obj\Debug\ps02087.Resources.resources
+D:\ps1\ps1\obj\Debug\ps1.vbproj.GenerateResource.Cache
+D:\ps1\ps1\obj\Debug\ps1.exe
+D:\ps1\ps1\obj\Debug\ps1.xml
+D:\ps1\ps1\obj\Debug\ps1.pdb
